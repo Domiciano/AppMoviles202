@@ -5,7 +5,10 @@
 En este repositorio encontrará todos los recursos vistos en clase, en Aplicaciones Móviles de la Facultad de Ingeniería - Universidad Icesi
 
 ## Correos de los integrantes
-[Correo de los integrantes](https://docs.google.com/spreadsheets/d/1RfTYhlPga0rrv10Ears9PEzf4TnAZ99aGlJAcbBlhrE/edit?usp=sharing)
+
+[Integrantes](https://docs.google.com/presentation/d/1dXiIOS-nnwhaF7z5uWD7yFp6PVwe9K_LpXSRb4iJ0Hs/edit?usp=sharing)
+
+[Equipos](https://docs.google.com/spreadsheets/d/1RfTYhlPga0rrv10Ears9PEzf4TnAZ99aGlJAcbBlhrE/edit?usp=sharing)
 
 ## SEMANA 1
 
