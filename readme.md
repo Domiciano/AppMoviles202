@@ -18,3 +18,14 @@ En este repositorio encontrará todos los recursos vistos en clase, en Aplicacio
 [AM - Modos de los constraints](https://youtu.be/w8_eIWZbK9E) <br />
 [AM - ScrollView y uso de imágenes](https://youtu.be/LLa_CHgo5aU) <br />
 [AM - Refenciar Views en la parte JAVA](https://youtu.be/2WrSp57L4F0) <br />
+
+
+## SEMANA 2
+[AM - OnClickListener](https://youtu.be/UppF6JdsY7Q)
+[AM - Navegación usando Intents](https://youtu.be/nQcxGJ4SmZM)
+[AM - Pasando parámetros usando Intents](https://youtu.be/Koa5k2ptkm0)
+[AM - Bottom Navigation Bar](https://youtu.be/MjKT9hYHXzc)
+[AM - Fragments](https://youtu.be/31dMVNp08tQ)
+[AM - Referenciar Views en Fragments](https://youtu.be/F6sdKPlwWZc)
+
+
