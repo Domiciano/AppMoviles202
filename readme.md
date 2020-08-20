@@ -21,11 +21,11 @@ En este repositorio encontrará todos los recursos vistos en clase, en Aplicacio
 
 
 ## SEMANA 2
-[AM - OnClickListener](https://youtu.be/UppF6JdsY7Q)
-[AM - Navegación usando Intents](https://youtu.be/nQcxGJ4SmZM)
-[AM - Pasando parámetros usando Intents](https://youtu.be/Koa5k2ptkm0)
-[AM - Bottom Navigation Bar](https://youtu.be/MjKT9hYHXzc)
-[AM - Fragments](https://youtu.be/31dMVNp08tQ)
-[AM - Referenciar Views en Fragments](https://youtu.be/F6sdKPlwWZc)
+[AM - OnClickListener](https://youtu.be/UppF6JdsY7Q) <br />
+[AM - Navegación usando Intents](https://youtu.be/nQcxGJ4SmZM) <br />
+[AM - Pasando parámetros usando Intents](https://youtu.be/Koa5k2ptkm0) <br />
+[AM - Bottom Navigation Bar](https://youtu.be/MjKT9hYHXzc) <br />
+[AM - Fragments](https://youtu.be/31dMVNp08tQ) <br />
+[AM - Referenciar Views en Fragments](https://youtu.be/F6sdKPlwWZc) <br />
 
 
