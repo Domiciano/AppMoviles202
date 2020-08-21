@@ -21,6 +21,11 @@ En este repositorio encontrará todos los recursos vistos en clase, en Aplicacio
 
 
 ## SEMANA 2
+
+### Clase
+[Moviles clase. SEMANA 2](https://youtu.be/J-wo53-swew) <br />
+
+### Videos
 [AM - OnClickListener](https://youtu.be/UppF6JdsY7Q) <br />
 [AM - Navegación usando Intents](https://youtu.be/nQcxGJ4SmZM) <br />
 [AM - Pasando parámetros usando Intents](https://youtu.be/Koa5k2ptkm0) <br />
