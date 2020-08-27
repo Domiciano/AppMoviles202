@@ -34,3 +34,13 @@ En este repositorio encontrará todos los recursos vistos en clase, en Aplicacio
 [AM - Referenciar Views en Fragments](https://youtu.be/F6sdKPlwWZc) <br />
 
 
+## SEMANA 3
+
+### Videos
+
+[AM - Introducción a RecyclerView](https://youtu.be/m7oSSa1Pdj8)
+[AM - Configuración del Adapter](https://youtu.be/X-sNZSBx71w)
+[AM - Uso del RecyclerView](https://youtu.be/cGphbbHTMqc)
+[AM - Referencias de Views dentro de Items de RecyclerView](https://youtu.be/ik_Ahz5E8S8)
+[AM - Acciones de Views dentro de Items de RecyclerView](https://youtu.be/v7_Q10CnpSM)
+[AM - ¿Tengo que hacer todo eso para una lista simple? Use ListView](https://youtu.be/ZuGl-a9qWLY)
