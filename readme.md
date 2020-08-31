@@ -44,3 +44,7 @@ En este repositorio encontrará todos los recursos vistos en clase, en Aplicacio
 [AM - Referencias de Views dentro de Items de RecyclerView](https://youtu.be/ik_Ahz5E8S8)<br />
 [AM - Acciones de Views dentro de Items de RecyclerView](https://youtu.be/v7_Q10CnpSM)<br />
 [AM - ¿Tengo que hacer todo eso para una lista simple? Use ListView](https://youtu.be/ZuGl-a9qWLY)<br />
+
+### Clase
+[AM - Clase S3 - Parte 1](https://youtu.be/qnTGYMbbx1c)<br />
+[AM - Clase S3 - Parte 2](https://youtu.be/i1WoTL2dv9c)<br />
