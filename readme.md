@@ -48,3 +48,16 @@ En este repositorio encontrará todos los recursos vistos en clase, en Aplicacio
 ### Clase
 [AM - Clase S3 - Parte 1](https://youtu.be/qnTGYMbbx1c)<br />
 [AM - Clase S3 - Parte 2](https://youtu.be/i1WoTL2dv9c)<br />
+
+## SEMANA 4
+
+### Videos
+[AM - Permisos](https://youtu.be/2yHB7SCwdec)<br />
+[AM - Abrir Cámara](https://youtu.be/qv7q-zaJEKI)<br />
+[AM - Configuración de FileProvider](https://youtu.be/VWljEctmfeU)<br />
+[AM - Abrir la galería](https://youtu.be/wnb6MLQ-hXk)<br />
+[AM - Descarga imagen de internet](https://youtu.be/v0WqiNyywlw)<br />
+[AM Extra - DialogFrament](https://youtu.be/bYLi9HBoH04)<br />
+
+
+
