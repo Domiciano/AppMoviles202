@@ -51,6 +51,9 @@ En este repositorio encontrará todos los recursos vistos en clase, en Aplicacio
 
 ## SEMANA 4
 
+### Clase
+[AppMovilesS4](https://youtu.be/MPQSkCT3ZT8)
+
 ### Videos
 [AM - Permisos](https://youtu.be/2yHB7SCwdec)<br />
 [AM - Abrir Cámara](https://youtu.be/qv7q-zaJEKI)<br />
