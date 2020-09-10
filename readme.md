@@ -65,6 +65,21 @@ En este repositorio encontrará todos los recursos vistos en clase, en Aplicacio
 
 ## SEMANA 5
 
+### Presentación
+
+[Presentación Wireframing -> Prototyping](https://github.com/Domiciano/AppMoviles202/blob/master/Taller%20de%20dise%C3%B1o/Wireframing%20Prototyping.pdf)<br />
+
+
 ### Taller
+
+[Consigna del taller](https://github.com/Domiciano/AppMoviles202/blob/master/Taller%20de%20dise%C3%B1o/Ejercicio%20Curso%20Aplicaciones%20M%C3%B3viles%202020%20-%20II.pdf)<br />
+
+### Herramientas online
+
+Página para poder realizar los proyectos de pantalla<br />
+[Figma](https://www.figma.com)<br />
+
+Página para montar el prototipo y también para montar las pantallas<br />
+[Marvel](https://marvelapp.com/)
 
 
