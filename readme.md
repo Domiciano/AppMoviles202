@@ -82,5 +82,5 @@ Página para poder realizar los proyectos de pantalla<br />
 Página para montar el prototipo y también para montar las pantallas<br />
 [Marvel](https://marvelapp.com/)<br />
 
-Manual de identidad Santiago de Cali <br />
+### Manual de identidad Santiago de Cali <br />
 [Manual de identidad de la ciudad de Cali](https://github.com/Domiciano/AppMoviles202/blob/master/Taller%20de%20dise%C3%B1o/ManualIdentidadCali.pdf)<br />
