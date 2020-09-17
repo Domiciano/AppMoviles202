@@ -84,3 +84,14 @@ Página para montar el prototipo y también para montar las pantallas<br />
 
 ### Manual de identidad Santiago de Cali <br />
 [Manual de identidad de la ciudad de Cali](https://github.com/Domiciano/AppMoviles202/blob/master/Taller%20de%20dise%C3%B1o/ManualIdentidadCali.pdf)<br />
+
+
+## SEMANA 6
+
+## Videos
+
+[AM - Internacionalización](https://youtu.be/oDo--QtEF4E)<br/>
+
+[AM - Fuentes](https://youtu.be/qGMrLbxOd44)<br/>
+
+[AM - Temas y estilos](https://youtu.be/HOlXjVqrt7Y)<br/>
