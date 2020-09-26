@@ -88,11 +88,11 @@ Página para montar el prototipo y también para montar las pantallas<br />
 
 ## SEMANA 6
 
-## Videos
-
 [AM - Internacionalización](https://youtu.be/oDo--QtEF4E)<br/>
 
 [AM - Fuentes](https://youtu.be/qGMrLbxOd44)<br/>
 
 [AM - Temas y estilos](https://youtu.be/HOlXjVqrt7Y)<br/>
+
+## SEMANA 7
 
