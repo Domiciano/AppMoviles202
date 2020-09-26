@@ -1,4 +1,4 @@
-package appmoviles.com.videoguia21.util;
+package co.domi.apunters8.util;
 
 import java.io.BufferedOutputStream;
 import java.io.BufferedWriter;
@@ -24,8 +24,6 @@ import javax.net.ssl.TrustManager;
 import javax.net.ssl.X509TrustManager;
 
 public class HTTPSWebUtilDomi {
-
-    private OnResponseListener listener;
 
     public HTTPSWebUtilDomi() {
         try {
@@ -61,11 +59,7 @@ public class HTTPSWebUtilDomi {
         }
     }
 
-    public void setListener(OnResponseListener listener) {
-        this.listener = listener;
-    }
-
-    public void GETrequest(int callbackID, String url) {
+    public String GETrequest(String url) {
         try {
             URL page = new URL(url);
             HttpsURLConnection connection = (HttpsURLConnection) page.openConnection();
@@ -79,14 +73,14 @@ public class HTTPSWebUtilDomi {
             is.close();
             baos.close();
             connection.disconnect();
-            String response = new String(baos.toByteArray(), "UTF-8");
-            if (listener != null) listener.onResponse(callbackID, response);
+            return new String(baos.toByteArray(), "UTF-8");
         }catch (IOException ex){
             ex.printStackTrace();
+            return "";
         }
     }
 
-    public void POSTrequest(int callbackID, String url, String json) {
+    public String POSTrequest(String url, String json) {
         try {
             URL page = new URL(url);
             HttpsURLConnection connection = (HttpsURLConnection) page.openConnection();
@@ -114,14 +108,14 @@ public class HTTPSWebUtilDomi {
             baos.close();
             os.close();
             connection.disconnect();
-            String response = new String(baos.toByteArray(), "UTF-8");
-            if (listener != null) listener.onResponse(callbackID, response);
+            return new String(baos.toByteArray(), "UTF-8");
         }catch (IOException ex){
             ex.printStackTrace();
+            return "";
         }
     }
 
-    public void PUTrequest(int callbackID, String url, String json) {
+    public String PUTrequest(String url, String json) {
         try {
             URL page = new URL(url);
             HttpsURLConnection connection = (HttpsURLConnection) page.openConnection();
@@ -147,15 +141,15 @@ public class HTTPSWebUtilDomi {
             baos.close();
             os.close();
             connection.disconnect();
-            String response = new String(baos.toByteArray(), "UTF-8");
-            if (listener != null) listener.onResponse(callbackID, response);
+            return new String(baos.toByteArray(), "UTF-8");
         }catch (IOException ex){
             ex.printStackTrace();
+            return "";
         }
 
     }
 
-    public void DELETErequest(int callbackID, String url) {
+    public String DELETErequest(String url) {
         try {
             URL page = new URL(url);
             HttpsURLConnection connection = (HttpsURLConnection) page.openConnection();
@@ -175,15 +169,12 @@ public class HTTPSWebUtilDomi {
             baos.close();
             connection.disconnect();
 
-            String response = new String(baos.toByteArray(), "UTF-8");
-            if (listener != null) listener.onResponse(callbackID, response);
+            return new String(baos.toByteArray(), "UTF-8");
         }catch (IOException ex){
             ex.printStackTrace();
+            return "";
         }
 
     }
 
-    public interface OnResponseListener {
-        void onResponse(int callbackID, String response);
-    }
 }
