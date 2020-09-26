@@ -96,3 +96,10 @@ Página para montar el prototipo y también para montar las pantallas<br />
 
 ## SEMANA 7
 
+[AM - Regla - Hilos worker no puede usar UI](https://youtu.be/gHAEZMCpzwc)<br/>
+[AM - Patron observer con hilos worker](https://youtu.be/P6dU6QZrn-c)<br/>
+[AM - Regla - Network no puede estar en hilo UI](https://youtu.be/z3hDFsHgbYs)<br/>
+[AM - Serialización JSON](https://youtu.be/sugRVu4atrc)<br/>
+[AM - Patrón observer para hilo de network](https://youtu.be/4XqVDCCAKNY)<br/>
+[AM - Almacenar en localstorage](https://youtu.be/W_tI1nX6uHA)<br/>
+
