@@ -96,6 +96,10 @@ Página para montar el prototipo y también para montar las pantallas<br />
 
 ## SEMANA 7
 
+### Clase
+[Moviles S7](https://youtu.be/3--JJhzMivg)
+
+### Videos
 [AM - Regla - Hilos worker no puede usar UI](https://youtu.be/gHAEZMCpzwc)<br/>
 [AM - Patron observer con hilos worker](https://youtu.be/P6dU6QZrn-c)<br/>
 [AM - Regla - Network no puede estar en hilo UI](https://youtu.be/z3hDFsHgbYs)<br/>
