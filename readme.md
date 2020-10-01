@@ -107,3 +107,12 @@ Página para montar el prototipo y también para montar las pantallas<br />
 [AM - Patrón observer para hilo de network](https://youtu.be/4XqVDCCAKNY)<br/>
 [AM - Almacenar en localstorage](https://youtu.be/W_tI1nX6uHA)<br/>
 
+## SEMANA 8
+
+[AM - UI del ejercicio de la semana](https://youtu.be/uurrhbSXkhE0)<br/>
+[AM - POST en Realtime database (Firebase)](https://youtu.be/UJ6mQC24HFA)<br/>
+[AM - Ejemplo de estructura normalized](https://youtu.be/kEKG2IVyH3Q)<br/>
+[AM - GET en Realtime database (Firebase)](https://youtu.be/NPj_SGV1qg8)<br/>
+[AM - Generación de UI a partir de datos recibidos en GET](https://youtu.be/_lW82aG3vOg)<br/>
+
+
