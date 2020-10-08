@@ -119,5 +119,15 @@ Página para montar el prototipo y también para montar las pantallas<br />
 [AM - GET en Realtime database (Firebase)](https://youtu.be/NPj_SGV1qg8)<br/>
 [AM - Generación de UI a partir de datos recibidos en GET](https://youtu.be/_lW82aG3vOg)<br/>
 
+## SEMANA 9
+
+### Videos
+
+[Georreferenciación y Google MAPS 1](https://youtu.be/rUzxsAgstfI)<br/>
+[Georreferenciación y Google MAPS 2](https://youtu.be/OSe1AP2X4LY)<br/>
+[Georreferenciación y Google MAPS 3](https://youtu.be/_Q1ggKF5osU)<br/>
+[Georreferenciación y Google MAPS 4](https://youtu.be/K6V_foEZ_n4)<br/>
+[Georreferenciación y Google MAPS 5](https://youtu.be/IkazAUYN0Dc)<br/>
+[Georreferenciación y Google MAPS 6](https://youtu.be/zr0nzqK3i-c)<br/>
 
 
