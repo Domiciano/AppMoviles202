@@ -130,4 +130,15 @@ Página para montar el prototipo y también para montar las pantallas<br />
 [Georreferenciación y Google MAPS 5](https://youtu.be/IkazAUYN0Dc)<br/>
 [Georreferenciación y Google MAPS 6](https://youtu.be/zr0nzqK3i-c)<br/>
 
+### Clase
+[AppMovilesS9](https://youtu.be/T24z69Y2BSc)<br/>
 
+## SEMANA 10
+
+### Videos
+[AM - Location Worker Thread](https://youtu.be/BZ9_ERfHYX8)<br/>
+[AM - Post de Location](https://youtu.be/jOxM0_YP-Bw)<br/>
+[AM - Long Polling para tracking de otros usuarios](https://youtu.be/8vHk192ZWSQ)<br/>
+[AM - Tracking de usuarios en Google Maps](https://youtu.be/ElQYjDy3MyI)<br/>
+[AM - API de Deezer](https://youtu.be/P4K_4i4bB6g)<br/>
+[AM - Deserialización de API de terceros](https://youtu.be/QJbMlaeuNd4)<br/>
