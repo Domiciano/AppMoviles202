@@ -146,6 +146,7 @@ Página para montar el prototipo y también para montar las pantallas<br />
 
 ## SEMANA 11
 
+[Instalación](https://firebase.google.com/docs/firestore/quickstart)<br/>
 
 [Guía de queries en Firestore](https://firebase.google.com/docs/firestore/query-data/queries)<br/>
 
