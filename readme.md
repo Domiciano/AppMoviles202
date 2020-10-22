@@ -142,3 +142,23 @@ Página para montar el prototipo y también para montar las pantallas<br />
 [AM - Tracking de usuarios en Google Maps](https://youtu.be/ElQYjDy3MyI)<br/>
 [AM - API de Deezer](https://youtu.be/P4K_4i4bB6g)<br/>
 [AM - Deserialización de API de terceros](https://youtu.be/QJbMlaeuNd4)<br/>
+
+
+## SEMANA 11
+
+
+[Guía de queries en Firestore](https://firebase.google.com/docs/firestore/query-data/queries)<br/>
+
+### Videos
+
+[AM - Instalación de Firestore](https://youtu.be/jlgdEIi0kJs)<br/>
+
+[AM - Escritura en Firestore](https://youtu.be/ElIEZV3784c)<br/>
+
+[AM - Validar un objeto existente en Firestore](https://youtu.be/VYM8qLy4i-Y)<br/>
+
+[AM - Leer una colección en Firestore](https://youtu.be/Bb-_KMQ-l_0)<br/>
+
+[AM - Uso de objetos de relación en Firestore](https://youtu.be/D7A6a2oOV9M)<br/>
+
+[AM - Publisher subscriber en Firestore](https://youtu.be/OzO4kStKTa4)<br/>
