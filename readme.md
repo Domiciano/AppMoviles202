@@ -150,6 +150,9 @@ Página para montar el prototipo y también para montar las pantallas<br />
 
 [Guía de queries en Firestore](https://firebase.google.com/docs/firestore/query-data/queries)<br/>
 
+### Clase
+[Clase](https://youtu.be/Kn3ocNbFICk)<br/>
+
 ### Videos
 
 [AM - Instalación de Firestore](https://youtu.be/jlgdEIi0kJs)<br/>
