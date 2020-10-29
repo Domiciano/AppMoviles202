@@ -163,3 +163,18 @@ Página para montar el prototipo y también para montar las pantallas<br />
 [AM - Uso de objetos de relación en Firestore](https://youtu.be/D7A6a2oOV9M)<br/>
 
 [AM - Publisher subscriber en Firestore](https://youtu.be/OzO4kStKTa4)<br/>
+
+
+## SEMANA 12
+
+[AM - Crear una notificación en Android](https://youtu.be/QKpofEgJnfI)<br/>
+
+[AM - Configurar FCM](https://youtu.be/IJER_Z3TspA)<br/>
+
+[AM - Suscribirse y desuscribirse a un topic](https://youtu.be/yWFyKMFj0-M)<br/>
+
+[AM - Enviar una notificación a FCM](https://youtu.be/cyeIef3sYqo)<br/>
+
+[AM - Refinar el proceso de suscripción](https://youtu.be/d_22pTk2F_s)<br/>
+
+[AM - Abrir la aplicación desde una notificación](https://youtu.be/21eb2IHU8Ro)<br/>
