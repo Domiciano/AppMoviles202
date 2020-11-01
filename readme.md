@@ -178,6 +178,13 @@ https://github.com/Domiciano/Clase10.git
 
 ## SEMANA 12
 
+### Videos
+Para seguir esta serie de videos debe clonar este repositorio<br/>
+
+```
+https://github.com/Domiciano/Clase11Firestore
+```
+
 [AM - Crear una notificación en Android](https://youtu.be/QKpofEgJnfI)<br/>
 
 [AM - Configurar FCM](https://youtu.be/IJER_Z3TspA)<br/>
