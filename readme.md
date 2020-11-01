@@ -196,3 +196,13 @@ https://github.com/Domiciano/Clase11Firestore.git
 [AM - Refinar el proceso de suscripción](https://youtu.be/d_22pTk2F_s)<br/>
 
 [AM - Abrir la aplicación desde una notificación](https://youtu.be/21eb2IHU8Ro)<br/>
+
+## SEMANA 13
+
+### Videos
+Para seguir esta serie de videos debe clonar este repositorio<br/>
+```
+https://github.com/Domiciano/Clase12FCM.git
+```
+
+En construcción
