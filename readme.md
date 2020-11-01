@@ -182,7 +182,7 @@ https://github.com/Domiciano/Clase10.git
 Para seguir esta serie de videos debe clonar este repositorio<br/>
 
 ```
-https://github.com/Domiciano/Clase11Firestore
+https://github.com/Domiciano/Clase11Firestore.git
 ```
 
 [AM - Crear una notificación en Android](https://youtu.be/QKpofEgJnfI)<br/>
