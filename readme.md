@@ -204,5 +204,7 @@ Para seguir esta serie de videos debe clonar este repositorio<br/>
 ```
 https://github.com/Domiciano/Clase12FCM.git
 ```
+También necesita el UtilDomi para la apertura de la galería<br/>
+[UtilDomi](https://github.com/Domiciano/AppMoviles202/blob/master/Semana%204/Recursos/UtilDomi.java)<br/>
 
 En construcción
