@@ -146,6 +146,8 @@ Página para montar el prototipo y también para montar las pantallas<br />
 
 ## SEMANA 11
 
+
+
 [Instalación](https://firebase.google.com/docs/firestore/quickstart)<br/>
 
 [Guía de queries en Firestore](https://firebase.google.com/docs/firestore/query-data/queries)<br/>
@@ -154,6 +156,12 @@ Página para montar el prototipo y también para montar las pantallas<br />
 [Clase](https://youtu.be/Kn3ocNbFICk)<br/>
 
 ### Videos
+
+Para seguir esta serie de videos debe clonar este repositorio<br/>
+```
+https://github.com/Domiciano/Clase10.git
+```
+
 
 [AM - Instalación de Firestore](https://youtu.be/jlgdEIi0kJs)<br/>
 
