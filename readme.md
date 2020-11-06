@@ -207,4 +207,9 @@ https://github.com/Domiciano/Clase12FCM.git
 También necesita el UtilDomi para la apertura de la galería<br/>
 [UtilDomi](https://github.com/Domiciano/AppMoviles202/blob/master/Semana%204/Recursos/UtilDomi.java)<br/>
 
-En construcción
+
+[AM - Alistamiento gráfico: Creación de sección "Mi Perfil"](https://youtu.be/gxo0T2C_wSo)<br/>
+[AM - Envío de objeto con archivo adjunto (por referencia)](https://youtu.be/Aw9S--nMMdc)<br/>
+[AM - Descarga de foto de perfil](https://youtu.be/9nP7XM66EMs)<br/>
+[AM - Integración de RecyclerView](https://youtu.be/Eh9aWfpagsk)<br/>
+[AM - Descargar foto de perfil en una lista](https://youtu.be/y1O_37YedoU)<br/>
