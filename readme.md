@@ -213,3 +213,9 @@ También necesita el UtilDomi para la apertura de la galería<br/>
 [AM - Descarga de foto de perfil](https://youtu.be/9nP7XM66EMs)<br/>
 [AM - Integración de RecyclerView](https://youtu.be/Eh9aWfpagsk)<br/>
 [AM - Descargar foto de perfil en una lista](https://youtu.be/y1O_37YedoU)<br/>
+
+### SEMANA 14
+Para seguir esta serie de videos debe clonar este repositorio<br/>
+```
+https://github.com/Domiciano/Clase13Storage.git
+```
