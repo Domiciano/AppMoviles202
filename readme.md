@@ -178,6 +178,9 @@ https://github.com/Domiciano/Clase10.git
 
 ## SEMANA 12
 
+### Clase
+[MovilesS12](https://youtu.be/SbDdREc0i8Q)
+
 ### Videos
 Para seguir esta serie de videos debe clonar este repositorio<br/>
 
@@ -198,6 +201,9 @@ https://github.com/Domiciano/Clase11Firestore.git
 [AM - Abrir la aplicación desde una notificación](https://youtu.be/21eb2IHU8Ro)<br/>
 
 ## SEMANA 13
+
+### Clase
+[MovilesS13](https://youtu.be/aWCiPcXpZDs)
 
 ### Videos
 Para seguir esta serie de videos debe clonar este repositorio<br/>
