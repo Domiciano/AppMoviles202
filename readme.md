@@ -225,3 +225,11 @@ Para seguir esta serie de videos debe clonar este repositorio<br/>
 ```
 https://github.com/Domiciano/Clase13Storage.git
 ```
+
+### Videos
+[AM - Alistamiento gráfico y configuración de Firebase Auth](https://youtu.be/GR90Ayn3Zpg)<br/>
+[AM - Registro en Firebase Auth](https://youtu.be/z7us1s0IGo4)<br/>
+[AM - Enviar email de verificación](https://youtu.be/-pJnIQfAWqQ)<br/>
+[AM - Login con Firebase Auth](https://youtu.be/i09hw_u9IiM)<br/>
+[AM - Navegación en una app con autenticación](https://youtu.be/OFQceL1iGfM)<br/>
+[AM - Olvidé mi contraseña y cambiar contraseña](https://youtu.be/QB2zpACHKRM)
