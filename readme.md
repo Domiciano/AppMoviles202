@@ -239,3 +239,13 @@ Para seguir esta serie de videos debe clonar este repositorio<br/>
 ```
 https://github.com/Domiciano/GuiaClase15.git
 ```
+
+[AM - Alistamiento gráfico y configuración de la APP](https://youtu.be/6ZouBEyb13s)<br/>
+[AM - Creación de ROOMS SQLite](https://youtu.be/qI2eu58wkag)<br/>
+[AM - Insertar datos y extraerlos todos](https://youtu.be/EHP6vrs2UUs)<br/>
+[AM - Login offline](https://youtu.be/4CVOBAKoDFw)<br/>
+[AM - Registrar datos Offline](https://youtu.be/y4rcZ0lOI5c)<br/>
+[AM - Sincronizar datos](https://youtu.be/inYks7t34WA)<br/>
+
+
+
