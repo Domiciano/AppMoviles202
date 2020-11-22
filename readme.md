@@ -247,5 +247,13 @@ https://github.com/Domiciano/GuiaClase15.git
 [AM - Registrar datos Offline](https://youtu.be/y4rcZ0lOI5c)<br/>
 [AM - Sincronizar datos](https://youtu.be/inYks7t34WA)<br/>
 
+### SEMANA 16
 
+Para seguir esta serie de videos debe clonar este repositorio<br/>
+```
+https://github.com/Domiciano/Clase14Auth.git
+```
 
+### Videos
+
+En construcción
