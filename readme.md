@@ -226,6 +226,9 @@ Para seguir esta serie de videos debe clonar este repositorio<br/>
 https://github.com/Domiciano/Clase13Storage.git
 ```
 
+### Clase
+[MovilesS14](https://youtu.be/teajxcvcI6E)
+
 ### Videos
 [AM - Alistamiento gráfico y configuración de Firebase Auth](https://youtu.be/GR90Ayn3Zpg)<br/>
 [AM - Registro en Firebase Auth](https://youtu.be/z7us1s0IGo4)<br/>
@@ -240,6 +243,10 @@ Para seguir esta serie de videos debe clonar este repositorio<br/>
 https://github.com/Domiciano/GuiaClase15.git
 ```
 
+### Clase
+[MovilesS15](https://youtu.be/GH_Q7qDe7iE)
+
+### Videos
 [AM - Alistamiento gráfico y configuración de la APP](https://youtu.be/6ZouBEyb13s)<br/>
 [AM - Creación de ROOMS SQLite](https://youtu.be/qI2eu58wkag)<br/>
 [AM - Insertar datos y extraerlos todos](https://youtu.be/EHP6vrs2UUs)<br/>
