@@ -263,4 +263,7 @@ https://github.com/Domiciano/Clase14Auth.git
 
 ### Videos
 
-En construcción
+[AM - Reglas usando autenticación](https://youtu.be/k1TJ759TzuY)<br/>
+[AM - Reglas privadas para un usuario específico](https://youtu.be/e16r34ivvys)<br/>
+[AM - Vista de chat de RecyclerView](https://youtu.be/rmi2LFT9y_4)<br/>
+[AM - Publicación de una aplicación en Google Play](https://youtu.be/mW98Jjq0hcc)<br/>
