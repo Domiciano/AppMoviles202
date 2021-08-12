@@ -4,6 +4,13 @@
 
 En este repositorio encontrará todos los recursos vistos en clase, en Aplicaciones Móviles de la Facultad de Ingeniería - Universidad Icesi
 
+
+
+<b>Contenido del curso</b><br>
+<p>En el siguiente board de Miro podrá encontrar las clase asíncronas y las grabaciones de las clases síncronas</p>
+<a href="https://miro.com/app/board/o9J_l2waJG0=/" target="_blank"><img src="https://www.icesi.edu.co/servicios/wp-content/uploads/2020/08/Miro-Icono.png" width="200"></a>
+<br>
+
 ## Correos de los integrantes
 
 [Integrantes](https://docs.google.com/presentation/d/1dXiIOS-nnwhaF7z5uWD7yFp6PVwe9K_LpXSRb4iJ0Hs/edit?usp=sharing)
